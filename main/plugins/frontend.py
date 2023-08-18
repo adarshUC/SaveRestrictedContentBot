@@ -13,7 +13,7 @@ from pyrogram.errors import FloodWait
 
 from ethon.telefunc import force_sub
 
-ft = f"To use this bot you've to join @{fs}."
+ft = "To use this bot you've to be verified by @Insane_x_assistant."
 
 message = "Send me the message link you want to start saving from, as a reply to this message."
 
